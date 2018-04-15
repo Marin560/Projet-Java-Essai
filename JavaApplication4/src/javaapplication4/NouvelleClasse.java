@@ -10,5 +10,5 @@ package javaapplication4;
  * @author Michel
  */
 public class NouvelleClasse {
-    
+    private int b;
 }
